@@ -26,24 +26,6 @@ Lip synching detective界面
 ## 4. 工具包工作流程
 Lip synching detective的工作流程如下图所示：
 
-<br>
-
-```mermaid
-flowchat
-st=>start: Start
-upload=>operation: Upload song and MIDI file
-parse_midi=>operation: Parse MIDI file
-analyze_song=>operation: Analyze song
-compare=>operation: Compare song and MIDI file
-result=>operation: Display result
-e=>end: End
-
-st->upload->parse_midi->analyze_song->compare->result->e
-
-```
-
-<br>
-
 ## 5. 工具包实现
 Lip synching detective的实现包括以下几个部分：
 
