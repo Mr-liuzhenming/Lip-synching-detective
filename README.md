@@ -26,6 +26,8 @@ Lip synching detective界面
 ## 4. 工具包工作流程
 Lip synching detective的工作流程如下图所示：
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/4c0b3d8e4dd941408638d9ecee9fd9ae.png)
+
 ## 5. 工具包实现
 Lip synching detective的实现包括以下几个部分：
 
